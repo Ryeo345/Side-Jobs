@@ -6,7 +6,7 @@ A simple design was implemented to put back focus on the functionality of the ap
 |:-----------------------:|
 | ![homepage](screenshots/homepage.png) |
 
-Once logged into the website, users are able to navigate through their activity and create postings for jobs. Error handling was tested extentsively to prevent users from sending POST requests for the backend API and ultimately adding wrong data into the PostgreSQL database. The form for the POST request uses google Places API to autofill the correct location for the job listing.
+Once logged into the website, users are able to navigate through their activity and create postings for jobs. Error handling was tested extensively to prevent users from sending POST requests for the backend API and ultimately adding wrong data into the PostgreSQL database. The form for the POST request uses google Places API to autofill the correct location for the job listing.
 
 |           *Drop-Down*              |                  *Post Jobs*       |
 |:-----------------------:|:-----------------------:|
